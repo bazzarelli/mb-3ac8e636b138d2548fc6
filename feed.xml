@@ -11,6 +11,14 @@
 <itunes:image href="https://raw.githubusercontent.com/bazzarelli/mb-3ac8e636b138d2548fc6/refs/heads/main/cover-classic.jpg"/>
 <image><url>https://raw.githubusercontent.com/bazzarelli/mb-3ac8e636b138d2548fc6/refs/heads/main/cover-classic.jpg</url><title>Morning Briefing</title><link>https://github.com/bazzarelli/mb-3ac8e636b138d2548fc6</link></image>
 <item>
+<title>Morning briefing - Mon Oct 19</title>
+<description>Weekday morning briefing for Monday, October 19, 2026.</description>
+<enclosure url="https://raw.githubusercontent.com/bazzarelli/mb-3ac8e636b138d2548fc6/refs/heads/main/episodes/2026-10-19.mp3" length="823148" type="audio/mpeg"/>
+<guid isPermaLink="false">morning-briefing-2026-10-19</guid>
+<pubDate>Mon, 19 Oct 2026 06:00:00 -0700</pubDate>
+<itunes:duration>102</itunes:duration>
+</item>
+<item>
 <title>Morning briefing - Fri Oct 16</title>
 <description>Weekday morning briefing for Friday, October 16, 2026.</description>
 <enclosure url="https://raw.githubusercontent.com/bazzarelli/mb-3ac8e636b138d2548fc6/refs/heads/main/episodes/2026-10-16.mp3" length="791084" type="audio/mpeg"/>
